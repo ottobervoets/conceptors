@@ -1,7 +1,7 @@
 # Conceptors
 
 This repo aims to provide a python implementation of H. Jaeger's conceptor network. The original work can be found from [here](http://minds.jacobs-university.de/conceptors).
-
+This repo is a adaptation of the work by duguyue100 (https://github.com/duguyue100/conceptors)
 ## Requirements
 
 This package is developed under following system and packages:
